@@ -1,7 +1,10 @@
-image_stitching.py
-pose_estimation_book3 application to CCTV finding person.py
+image_stitching.py +pose_estimation_book3 application to CCTV finding person.py
 
 perspective_correction.py to move red box
+
+pose_estimation_chessboard.py ?
+pose_estimation_implement.py ?
+
 ## An Invitation to 3D Vision: A Tutorial for Everyone
 _An Invitation to 3D Vision_ is an introductory tutorial on _3D computer vision_ (a.k.a. _geometric vision_ or _visual geometry_ or _multiple-view geometry_). It aims to make beginners understand basic theories on 3D vision and implement its applications using [OpenCV](https://opencv.org/).
 In addition to tutorial slides, example codes are provided in the purpose of education. They include simple but interesting and practical applications. The example codes are written as short as possible (mostly __less than 100 lines__) to be clear and easy to understand.
