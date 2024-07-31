@@ -1,5 +1,6 @@
 20240731Qaffine_eswtimation_implementation.explain this code with affine estimation and hyperbolic projective space?
-
+(Multiple view geometry in cv, 3d object reconstruction, 
+application to DTW
 
 image_stitching.py +pose_estimation_book3 application to CCTV finding person.py
 
